@@ -43,7 +43,7 @@
 ## 範例
 
 ```md
-[⠀](https://yourwebsiteurlhere.com)
+[⠀](https://nickyangtpe.github.io/FakeSteamEmbed/)
 ```
 貼上後，Discord 將顯示預設的 Steam 風格嵌入訊息（圖像、標題、描述），但文字中不會看到連結。
 
